@@ -1,0 +1,10 @@
+[
+  {
+    "caption": "Migrations",
+    "command": "migrations_list"
+  },
+  {
+    "caption": "Go To Test",
+    "command": "go_to_test"  
+  }
+]

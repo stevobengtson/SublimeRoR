@@ -1,0 +1,4 @@
+[
+  { "keys": ["super+shift+m"], "command": "migrations_list" },
+  { "keys": ["shift+super+y"], "command": "go_to_test" }
+]

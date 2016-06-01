@@ -1,0 +1,9 @@
+[{
+  "caption": "Ruby On Rails",
+  "id": "ruby_on_rails",
+  "children": [{
+    "id": "migration_list",
+    "caption": "Migrations",
+    "command": "migration_list"
+  }]
+}]
